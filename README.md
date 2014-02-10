@@ -4,6 +4,7 @@ cipher
 A simple XOR cipher implementation in C. This one uses only human-readable characters in the cipher, so it's easy to share the encrypted message!.
 
 Example:
+========
 To encrypt a message, just feed it to stdin:
 $ echo "Hello, Github" | ./cipher 12345
 Message: Hello, Github
